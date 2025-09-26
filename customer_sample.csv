@@ -1,0 +1,7 @@
+CustomerID,First Name,Last Name,Email,Phone,Join Date
+101,Alice,Smith,ALICE@MAIL.COM,+1 (555) 123-4567,2023/01/15
+102,Bob,Jones,bob@mail.com,555.987.6543,15-02-2023
+103,Charlie,Brown,,,"March 3, 2023"
+104,David,Wilson,david@@mail.com,1234567890,
+105,Eve,Taylor,eve@mail.com,555-000-1111,2023.05.20
+103,Charlie,Brown,charlie@mail.com,555-987-6543,2023/03/03
