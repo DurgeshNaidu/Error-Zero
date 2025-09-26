@@ -34,7 +34,7 @@ data-cleaning-system/
 ## ⚙️ Installation
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/data-cleaning-system.git
+git clone https://github.com/DurgeshNaidu/Error-Zero.git
 cd data-cleaning-system
 ```
 
