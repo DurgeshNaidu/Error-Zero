@@ -89,4 +89,4 @@ Example after cleaning:
 ---
 
 ## 👨‍💻 Author
-Developed by **Your Name**
+Developed by **DURGESH NAIDU**
